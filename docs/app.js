@@ -528,7 +528,7 @@
                                     {
                                         attrs: {
                                             href:
-                                                'https://github.com/adityanaag3/snake-game-lwc',
+                                                'https://github.com/nsuresha/snake-game-lwc',
                                             target: '_blank'
                                         },
                                         key: 0
@@ -554,13 +554,13 @@
                         key: 9
                     },
                     [
-                        i('Built by Aditya Naag Topalli'),
+                        i('Re-Built by Suresha N'),
                         r('br', { key: 5 }, []),
                         r(
                             'a',
                             {
                                 attrs: {
-                                    href: 'http://adityanaag.com',
+                                    href: 'http://nsuresha.in',
                                     target: '_blank'
                                 },
                                 key: 6
@@ -572,7 +572,7 @@
                             'a',
                             {
                                 attrs: {
-                                    href: 'https://twitter.com/adityanaag',
+                                    href: 'https://twitter.com/nsureshamys',
                                     target: '_blank'
                                 },
                                 key: 7
@@ -585,7 +585,7 @@
                             {
                                 attrs: {
                                     href:
-                                        'https://www.linkedin.com/in/adityanaag3/',
+                                        '#',
                                     target: '_blank'
                                 },
                                 key: 8
